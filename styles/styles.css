@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+}
+
+.color-vivaldi {
+  color: #ef3939;
+}
+
+.color-chrome {
+  color: #1bb15a;
+}
+
+.color-firefox {
+  color: #ee8424;
+}
+
+
+.color-opera {
+  color: #ff1b2c;
+}
+
+.color-edge {
+  color: #1976d2;
+}
+
+.color-internet-explorer {
+  color: #2672ec;
+}
+
+.color-safari {
+  color: #0b99e4;
+}
+

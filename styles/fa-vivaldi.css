@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'fa-vivaldi';
+  src        : url('../fonts/fa-vivaldi.eot');
+  src        : url('../fonts/fa-vivaldi.eot#iefix') format('embedded-opentype'),
+               url('../fonts/fa-vivaldi.woff2') format('woff2'),
+               url('../fonts/fa-vivaldi.woff') format('woff'),
+               url('../fonts/fa-vivaldi.ttf') format('truetype'),
+               url('../fonts/fa-vivaldi.svg#fa-vivaldi') format('svg');
+  font-weight: normal;
+  font-style : normal;
+}
+
+.fa-vivaldi:before {
+  font-family: "fa-vivaldi";
+}
+
+.fa-vivaldi:before {
+  content: '\e800';
+}
+
+.fa-stack .fa-vivaldi {
+  left: 0.045em;
+  top: 0.05em;
+}
